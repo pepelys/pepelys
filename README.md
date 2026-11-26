@@ -1,8 +1,12 @@
-## About Me
+# pepelys
 
 Hi, I'm pepelys.
 I mainly work with Java and TypeScript.
 I'm currently focused on creating mods and forks for Cleanroom.
+
+![3D GitHub contribution calendar for pepelys, with activity by contribution type and language](./profile-3d-contrib/contributions.svg)
+
+[![GitHub stats for pepelys](https://github-readme-stats.vercel.app/api?username=pepelys&show_icons=true&rank_icon=github&show=reviews,prs_merged&card_width=900&border_radius=0&bg_color=0d1726&title_color=e9f3ff&text_color=b8c9df&icon_color=66e4cf&border_color=263b52)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Projects
 
