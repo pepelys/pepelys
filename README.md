@@ -10,12 +10,10 @@ I'm currently focused on creating mods and forks for Cleanroom.
 
 ## My Projects
 
-- **Celeritas/Nothirium Extra** — Additional rendering options for Celeritas, Nothirium, and their forks.
-- **Pulsar Lighting Engine** — A new lighting engine for Cleanroom, based on Starlight and SuperNova.
-- **Chat Heads CRE** — A Cleanroom fork of Chat Heads.
-- **Sodium/Embeddium Leaf Culling** — Enhanced leaf culling for Sodium and Embeddium, supporting multiple Minecraft versions and mod loaders.
-- **Additional Enchanted Miner Rescaled** — A Cleanroom fork of Additional Enchanted Miner, with numerous features backported from newer versions.
-- **Flexible Marker CRE** — A Cleanroom fork of Flexible Marker.
-- **CleanroomDevEnv** — My Cleanroom mod development template, with support for Spotless, Mixins, coremods, access transformers, and more.
-- **Yomu** — A fast, feature-rich JSON5 parser for Java 8 and later.
-- **Kita** — A multipurpose bot for my Discord server.
+- **[Pulsar Lighting Engine](https://github.com/Sumire-Labs/Pulsar)** — A Starlight-based lighting engine for Cleanroom with RGB lighting support.
+- **[Celeritas/Nothirium Extra](https://github.com/Sumire-Labs/Celeritas-Extra)** — A client-side add-on that adds rendering options and HUD features for Celeritas, Actinium, and Nothirium.
+- **[Sodium/Embeddium Leaf Culling](https://github.com/Sumire-Labs/SodiumLeafCulling-Unofficial)** — Leaf rendering optimizations for Sodium and Embeddium across multiple Minecraft versions and mod loaders.
+- **[Rescaled Collection](https://github.com/Sumire-Labs/Rescaled-Collection)** — Ports of Scala 2 mods to Cleanroom, Java 25, and Scala 3, including Additional Enchanted Miner and ProjectRed.
+- **[CleanroomMDK](https://github.com/Sumire-Labs/CleanroomMDK)** — A Cleanroom mod development template with support for Mixins, coremods, and access transformers.
+- **[Yomu](https://github.com/Sumire-Labs/Yomu)** — A Java 8+ JSON5 library that preserves comments when editing configuration files.
+- **[Kita](https://github.com/Sumire-Labs/Kita)** — A multipurpose Discord bot built with Java 25 and Discord4J, with audio playback, translation, and ticket management.
